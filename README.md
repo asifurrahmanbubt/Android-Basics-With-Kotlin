@@ -1,7 +1,7 @@
 # My Android Basics Journey 🚀  
 
 ## 📖 About This Repository  
-Hey there! 👋 This is where I’m documenting my Android development journey, starting from scratch. I’m learning **Android Basics with Compose** through the official guide by [developer.android.com](https://developer.android.com/courses/android-basics-compose).  
+Hey there! 👋 This is where I’m documenting my Android development journey, starting from scratch. I’m learning **Android Basics with Compose** through the official guide by [developer.android.com](https://developer.android.com/courses/android-basics-compose/course).  
 
 Here, you’ll find all my practice code, project files, and notes as I explore the amazing world of Android development.  
 
